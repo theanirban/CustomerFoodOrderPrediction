@@ -14,7 +14,11 @@ Open the web application.
 Enter the required customer details, such as age, gender, occupation, etc.
 Click on the submit button to view the prediction result.
 The app provides insights into whether the customer is likely to order food online again and offers explanations for the prediction.
+
+
 About the Developer:
 This app was developed by Anirban Bhattacharjee, a data science enthusiast passionate about leveraging machine learning to solve real-world problems.
 
 Feel free to explore the app and provide feedback for improvement!
+
+LINK: https://customerfoodorderprediction-anirban.streamlit.app/
